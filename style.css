@@ -16,8 +16,8 @@
         width: 30%;
     }
     .app {
-        font-size: 27px;
-        margin-left: 40%;
+        font-size: 45px;
+        margin-left: 30%;
         margin-top: -1%;
         font-family:Georgia, 'Times New Roman', Times, serif
     }
@@ -34,9 +34,26 @@
         }
         ul#horizontal-list li {
             display: inline;
+            margin-left: 10px;
         }
     li {
-        font-size: 15px;
+        font-size: 22px;
+        border: 2px solid rgba(106, 232, 252, 0.432);
         border-radius: 10px;
-        background:rgba(90, 95, 97, 0.719)
+        background:rgba(106, 232, 252, 0.432);
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .act {
+        font-size: 45px;
+        margin-left: 40%;
+        margin-top: -1%;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
+    .acth {
+        font-size: 25px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    }
+    .para {
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
