@@ -57,3 +57,9 @@
         font-size: 18px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     }
+    .intro {
+        font-size: 45px;
+        margin-left: 35%;
+        margin-top: -1%;
+        font-family:Georgia, 'Times New Roman', Times, serif
+    }
